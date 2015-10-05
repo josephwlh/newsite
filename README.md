@@ -11,7 +11,9 @@
 > 安排必要组件
 
 `cd src`
+
 `npm install`
 
 > 运行
+
 `gulp`
