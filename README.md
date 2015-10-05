@@ -6,7 +6,7 @@
 > 直接使用 harp -b 命令安装
 
 `harp init src --boilerplate josephwlh/newsite`
-```
+
 
 > 安排必要组件
 
